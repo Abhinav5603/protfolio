@@ -1,5 +1,5 @@
 import React from 'react'
-import { useState } from 'react'
+
 import { Container, Wrapper, Title, Desc, CardContainer } from './ProjectsStyle'
 import ProjectCard from '../Cards/ProjectCards'
 import { projects } from '../../data/constants'
